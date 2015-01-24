@@ -22,8 +22,8 @@ Website
 ===
 [myAmerica Developer Summit 2015](http://myamerica.github.io/devsummit2015/)
 
-#Submitting a Pull Request to the Website
-#========================================
+Submitting a Pull Request to the Website
+========================================
 ```
 #0. Download and install hub.github.com
 #1. File JIRA issue for your update at https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues
