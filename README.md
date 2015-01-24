@@ -1,7 +1,7 @@
 myAmerica Developer Summit - 2015
 =======
 
-This is the home page of the [myAmerica Developer Summit 2015](http://myamerica.github.io/devsummit2015/)!  This developer summit is sponsored by the [U.S. Department of the Interior](http://www.doi.gov/).
+This is the home page of the [myAmerica Developer Summit 2015](http://myamerica.github.io/devsummit2015/)!  
 
 The organization of this tree is as follows:
 
