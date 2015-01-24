@@ -37,8 +37,8 @@ Website
 #8. git commit -m “fix for #X contributed by <your username>”
 #9. git fork
 #10. git push -u <your git username> PR-X
-11. git pull-request
-#```
+#11. git pull-request
+```
 
 Amazon Instance and Data Buckets
 ===
