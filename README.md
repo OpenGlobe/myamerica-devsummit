@@ -1,9 +1,7 @@
-NSF DataViz Hackathon for Polar CyberInfrastructure
+myAmerica Developer Summit - 2015
 =======
 
-This is the logistical home for the upcoming workshop on [Polar DataViz and a hackathon
-on Polar CyberInfrastructure](http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/), sponsored by the [National Science Foundation](http://www.nsf.gov/) 
-funded project [PLR-1348450](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1348450&HistoricalAwards=false) and [PLR-144562](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1445624&HistoricalAwards=false).
+This is the home page of the [myAmerica Developer Summit 2015](http://myamerica.github.io/devsummit2015/)!  This developer summit is sponsored by the [U.S. Department of the Interior](http://www.doi.gov/).
 
 The organization of this tree is as follows:
 
@@ -15,32 +13,32 @@ The organization of this tree is as follows:
 
 Tweeting and Social Media
 ===
-If you are considering tweeting about the site, please use the hashtag [#nsfpolardatavis](https://twitter.com/search?f=realtime&q=%23nsfpolardatavis)
+If you are considering tweeting about the site, please use the hashtag [#myAmerica]
 
 If you use [Google Plus](http://plus.google.com), please consider leveraging our
-Google Group/Event Group [here](https://plus.google.com/events/ccvo3qic56jku72r40haqjnlf74).
+Google Group/Event Group [here](http://myamerica.github.io).
 
 Website
 ===
-[http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/](http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/)
+[myAmerica Developer Summit 2015](http://myamerica.github.io/devsummit2015/)
 
-Submitting a Pull Request to the Website
-========================================
-```
-0. Download and install hub.github.com
-1. File JIRA issue for your update at https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues
-- you will get issue id e.g., #X where X is the issue ID, e.g., if X is 101, then #101
-2. git clone https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon.git
-3. cd datavis-hackathon
-4. git checkout -b PR-X
-5. edit files
-6. git status (make sure it shows what files you expected to edit)
-7. git add <files>
-8. git commit -m “fix for #X contributed by <your username>”
-9. git fork
-10. git push -u <your git username> PR-X
+#Submitting a Pull Request to the Website
+#========================================
+#```
+#0. Download and install hub.github.com
+#1. File JIRA issue for your update at https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues
+#- you will get issue id e.g., #X where X is the issue ID, e.g., if X is 101, then #101
+#2. git clone https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon.git
+#3. cd datavis-hackathon
+#4. git checkout -b PR-X
+#5. edit files
+#6. git status (make sure it shows what files you expected to edit)
+#7. git add <files>
+#8. git commit -m “fix for #X contributed by <your username>”
+#9. git fork
+#10. git push -u <your git username> PR-X
 11. git pull-request
-```
+#```
 
 Amazon Instance and Data Buckets
 ===
