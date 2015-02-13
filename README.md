@@ -23,8 +23,6 @@ What is myAmerica?  myAmerica is an initiative to bring our nations lands and wa
 
 The myAmerica initiative helps to expand and explore opportunities for citizen engagement and industry partnerships, and supports the Recreation One Stop (Rec1Stop) ongoing efforts to modernize reservations.  We're supporting interactive planning tools, integrated third party data access efforts, data transparency, field operations support, and marketing / customer service initiatives.
 
-Key Outcomes:
-
 Customer Service for the 21st Century
 -------------------------------------
 + Virtualize and customize a range of visitor services. 
