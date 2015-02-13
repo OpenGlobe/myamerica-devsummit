@@ -51,4 +51,8 @@ Website
 ===
 [myAmerica Developer Summit 2015](http://openglobe.github.io/myamerica-devsummit/)
 
+Credits and Thanks
+===
+Much of the format and approach for the "unconference" site comes from that established for the very cool [NSF Polar Cyberinfrastructure] (https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon) - thx guys!
+
 
