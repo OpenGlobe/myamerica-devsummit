@@ -53,6 +53,6 @@ Website
 
 Credits and Thanks
 ===
-Much of the format and approach for the "unconference" site comes from that established for the very cool [NSF Polar Cyberinfrastructure] (https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon) - thx guys!
+Much of the format and approach for the "unconference" site comes from that established for the very cool [NSF Polar Cyberinfrastructure Hackathon] (https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon) - thx guys!
 
 
