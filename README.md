@@ -44,7 +44,7 @@ Promoting Economic Growth
 
 Tweeting and Social Media
 ===
-If you are considering tweeting about the site, please use the hashtag [#myAmerica]
+If you are considering tweeting about the site, please use the hashtag [#dev4outdoors]
 
 If you use [Google Plus](http://plus.google.com), please consider leveraging our
 Google Group/Event Group [here](http://myamerica.github.io).
