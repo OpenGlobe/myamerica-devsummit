@@ -31,6 +31,6 @@ L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 L.marker([38.893852, -77.042642], {icon: hotelIcon}).addTo(map)
         .bindPopup("<b>The Washington Square Hotel: rates: $263.00 - $361.00: contact 212-777-9515 - callers must advise they are with the New School and request the New School corporate rate: http://www.wshotel.com/").openPopup();
 L.marker([38.894487, -77.042562]).addTo(map)
-        .bindPopup("<b> [EVENT] Department of the Interior").openPopup();
+        .bindPopup("<b> [EVENT] Department of the Interior <a href="http://www.doi.gov/interiormuseum/Plan-a-Visit.cfm">(more)</a>").openPopup();
 
 var popup = L.popup();
