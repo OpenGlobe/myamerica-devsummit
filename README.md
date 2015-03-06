@@ -5,11 +5,12 @@ This is the home page of the [myAmerica Developer Summit 2015](http://openglobe.
 
 The organization of this tree is as follows:
 
+* challenges - Challenges include subfolders and some datasets for sessions.
 * static - Static portions of the website (CSS, JS, resources)
 * presentations - Presentations from the meeting (keynotes, etc.)
 * code - Includes sub-folders of ALv2 licensed code produced by each session.
 * report - The report from the workshop.
-* index.html - The actual web site.
+* index.html - The actual [web site](http://openglobe.github.io/myamerica-devsummit/).
 
 About the myAmerica Developer Summit 2015
 -----------------------------------------
@@ -43,9 +44,6 @@ Promoting Economic Growth
 Tweeting and Social Media
 ===
 If you are considering tweeting about the site, please use the hashtag [#dev4outdoors]
-
-If you use [Google Plus](http://plus.google.com), please consider leveraging our
-Google Group/Event Group [here](http://myamerica.github.io).
 
 Website
 ===
