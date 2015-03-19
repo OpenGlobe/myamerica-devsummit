@@ -12,6 +12,13 @@
     <link media="all" rel="stylesheet" href="static/css/bootstrap.css">
     <link media="all" rel="stylesheet" href="static/css/flexslider.css">
     <link rel="icon" type="image/png" href="static/img/myamericadevsummitico.png">
+    <!--Countdown timer CSS-->
+            <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" />
+        <!--<link rel="stylesheet" href="static/css/styles.css" />-->
+        <link rel="stylesheet" href="static/countdown/jquery.countdown.css" />
+            <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">    </script>
+        <![endif]-->
 </head>
 <body>
 
@@ -60,6 +67,9 @@
      <h3>#dev4outdoors</h3><br>
     <img src="static/img/myamericadevsummit_white.png" id="logo" style="width: 15%; height: 15%" alt="myAmerica Developer Summit @ U.S. Department of the Interior" filter: invert(50%)><br>
      <br><br><br><br>
+        
+         <div id="countdown"></div>
+        
      <br><br><br><br>
      	<img src="static/img/DOI-logo.png" id="logo" style="width: 10%; height: 10%" alt="myAmerica Developer Summit @ U.S. Department of the Interior">&emsp;
      	<img src="http://upload.wikimedia.org/wikipedia/commons/1/1d/US-NationalParkService-Logo.svg" id="logo" style="width: 10%; height: 10%" alt="">&emsp;
@@ -72,6 +82,7 @@
 <br/><br/>
 <a href="#abstract" class="btn-down scroll-link"><img id="downarrow" src="static/img/downarrow.png"></a>
 </section>
+    
 
 
 <section class="about-section" id="abstract">
@@ -396,6 +407,10 @@ Reference to any specific commercial products, process, or service by trade name
     }());
 </script>
 
+        <!-- Countdown Timer JavaScript includes -->
+		<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script src="static/countdown/jquery.countdown.js"></script>
+		<script src="static/js/script.js"></script>
 
 </body>
 </html>
