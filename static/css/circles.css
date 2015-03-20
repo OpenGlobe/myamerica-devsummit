@@ -1,0 +1,12 @@
+/*-------------------------
+	Circle Styles
+--------------------------*/		
+
+#canvas .circle {
+	  float: right;
+    display: inline-block;
+		}
+
+.circles-decimals {
+			font-size: .4em;
+		}
