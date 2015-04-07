@@ -29,8 +29,10 @@
 
 .license-section{background: #b7ac35; padding: 20px 0 20px 0; margin: 0 0 0 0;opacity: .97;text-align: center; height: 5%;}.license-section p{text-align: center; margin-bottom: 0px; line-height: 20px; color: #ededed;}.license-section a{color: #a53101;}
 
-.agenda-section table {background-color:white; cellpadding: 2px;};
-.agenda-section div h3 {background-color:#BBB1A5; color:white; padding:3px 8px; text-transform:uppercase; width:500px;};
+.datasource-section {padding: 0 0 40px 0;border-top:solid 3px #003040;background-color:#333; cellpadding: 2px;}.datasource-section h1{color: white; padding:0 0 73px;margin:0;font:300 50px alsschlangesans,Arial,Helvetica,sans-serif;position:relative;text-align:center;letter-spacing:-2px} .datasource-section ul {list-style-type: circle;color: white;padding-left:40px;}
+
+.agenda-section table {background-color:white; cellpadding: 2px;}
+.agenda-section div h3 {background-color:#BBB1A5; color:white; padding:3px 8px; text-transform:uppercase; width:500px;}
 .participants-section{background: #4zac35; padding: 0 0 0 0; margin: 0 0 0 0;opacity: .97;}
 #abstract{padding-top:5em;}
 #github-sessions {padding:1em;background-color:#efefef;margin:0px 40px;border-radius:5px;}

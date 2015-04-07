@@ -197,12 +197,55 @@ This event will take place April 11-12 in Washington D.C.
 <div id="map" style="width: 100%; height: 500px"></div>
 </section>
 
+<!--data source section-->
+<section class="datasource-section" id="datasources">
+   <div class="container">
+	<header class="container">
+		<h1>Data Sources</h1>
+	</header>
+	
+	<p>
+		<ul>
+			<li>
+				<p>Recreation Information Database (RIDB) API - The RIDB offers a RESTful API for the purpose of accessing data endpoints containing information on federal recreation areas, facilities, campsites, tours, and permits.</p>
+				<ul>
+					<li><p>Data Source:
+						<ul>
+							<li><p><a href="http://usda.github.io/RIDB/">RIDB API</a></li></p>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<p>Federal Trails GIS data - Federal Trails GIS Data is available as either data downloads or map/web services at the links below.  Feel free to incorporate this data for use during the hackathon or to explore their characteristics with agency data stewards who may be attending.  This data is being offered separately as they are not currently available in the RIDB.</p>
+				<ul>
+					<li><p>Data sources:</p></li>
+					<ul>
+					<li><p><a href="https://www.cloudvault.usda.gov/public.php?service=files&t=d95899ec643876ddb28f6bb1413a563f">Federal Trails Data</a></p></li>
+					<li><p><a href="http://apps.fs.fed.us/fsmapviewer/index.html?config=public-config/EDW_DataExtract_01.xml">USFS Data Extract Tool</a></p></li>
+					<li>
+						<p>Fish and Wildlife Service Trails Data Map Services</p> 
+						<ul>
+							<li><p><a href="http://gis.fws.gov/arcgis/rest/services/FWSTrails/MapServer">FWS Trails Map Server</a></p></li>
+							<li><p><a href="http://www.fws.gov/gis/data/national/index.html">FWS National GIS Data</a></p></li>
+						</ul>
+					</li>
+					</ul>
+				</ul>
+				
+			</li>
+		</ul>
+	</p>
+	
+	</div>
+</section>
+
 <section class="committee-section" id="committee">
    <div class="container">
     <header class="container">
         <h1>Transportation and Lodging</h1>
     </header>
-    <div class="containter-fluid">
+    <div class="container-fluid">
     	<p>The Main Interior Building is located at 1849 C Street NW; Washington, DC 20240. The building is on C
 Street NW between 18th and 19th Streets.<p>
 
@@ -453,7 +496,7 @@ between 18th and 19th Streets – a 15 minute walk. You can map the trip at: htt
 
 				for (var i = 1; i <= colors.length; i++) {
 					var child = document.getElementById('circles-' + i),
-						percentage = 93 + (i * 0),
+						percentage = 90 + (i * 0),
 
 						circle = Circles.create({
 							id:         child.id,
@@ -461,7 +504,7 @@ between 18th and 19th Streets – a 15 minute walk. You can map the trip at: htt
 							radius:     35,
 							width:      4,
 							colors:     colors[i - 1],
-                            text:       "139"
+                            text:       "134"
 						});
 
 					circles.push(circle);
