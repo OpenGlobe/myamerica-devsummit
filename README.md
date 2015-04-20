@@ -1,7 +1,9 @@
 myAmerica Developer Summit - 2015
 =======
 
-This is the home page of the [myAmerica Developer Summit 2015](http://openglobe.github.io/myamerica-devsummit/)!  
+This is the home page of the [myAmerica Developer Summit 2015](http://openglobe.github.io/myamerica-devsummit/)!
+
+A public repo of all of submitted projects can be found [here] (https://github.com/myAmericaDevSummit2015)!
 
 The organization of this tree is as follows:
 
