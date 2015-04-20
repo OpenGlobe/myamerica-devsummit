@@ -14,6 +14,93 @@ The organization of this tree is as follows:
 * report - The report from the workshop.
 * index.html - The actual [web site](http://openglobe.github.io/myamerica-devsummit/).
 
+Update: Project Summaries from the myAmerica Developer Summit 2015
+------------------------------------------------------------------
+
+Eleven teams presented apps for recreation including trails data pulling in Flicker photos, mashing together permit information for all agencies, two games for kids, and a few others presenting ways to showcase recreation and gather crowd-sourced/harvested information.
+
+IBM – Blue Mix 
+--------------
+Application was created, tested, and deployed using IBM's platform as a service (PaaS) called Bluemix.  Bluemix is based on CloudFoundry but includes a catalog of composable business services which allow us to quickly create, extend, deploy, and monitor web and mobile applications.
+
+We elected to create a node.js application back-end that's built on IBM's Mobile as a Service and a front end web client (separate application) that leveraged leaflet, openstreet maps, and both weather (open weather maps) and text-to-speech services(Watson).  The reason we selected this two-tier architecture is to allow scaling of the application, which does the following:
+•	Captures the user's current location (either via their phone or browser).  
+•	Uses that location data to perform query on RIDB and the Open Weather Maps API and then returns the recreation assets for a fixed distance and then renders a map (using Leaflet which is a mobile optimized mapping technology and data from OpenStreetMaps).  
+•	Provide RIDB data and current data in a pop-up on the map.  
+•	Provide a text to speech feature which speaks the current weather.
+
+Topophi
+-------
+We are a group of avid backpackers making information about our national forests and wildernesses easily available to everyone. We want to educate adventurers and give them the information and permits they need to get into the backcountry.  Visit our website  https://www.topophi.com and read our blog: https://blog.topophi.com/.  
+
+Trail Assist
+------------
+Team Members:
+•	Dan Rademacher (Stamen Design)
+•	Seth Fitzsimmons (Stamen Design)
+•	Jereme Monteau (Trailhead laps
+
+The code repository for TrailEditor is here:  https://github.com/CodeForPortland/trailheadit
+There was not a lot of actual code for the trail layer compositing part, but will let you know if a repository emerges.
+Jereme Monteau  | Co-Founder & CTO @ www.TrailheadLabs.com
+
+WanderList - Booze-Allen Hamilton
+---------------------------------
+WanderList is an easy way to create lists of your outdoor adventures. It allows you to search, create, and share your own curated lists that highlight your favorite parks into Bucket Lists.
+
+Public Repo: 
+
+Ascent - Booze-Allen Hamilton
+-----------------------------
+ASCENT is a mobile-optimized, we- based application which pits two teams of kids from all over the country against each other in a battle to get to the top and stay there. Kids earn points for their teams by visiting parks and earn bonus points by finding hidden QR codes at different locations.
+
+Kids can view their conquests on the map and the maps of their competitors.
+
+Public Repo: 
+
+Trail Buddy - Booze-Allen Hamilton
+----------------------------------
+Trail Buddy provides an intuitive, accessible and human-centric application to interact, query and discovery the beauty of the great outdoors by using publicly available data sets. Combining natural language search, voice query and a learning mechanism which learns from the collective intelligence of the users interacting with it, Trail Buddy answers questions, just like your best buddy would.
+
+Public Repo:
+
+NatLand Facts! - HipCamp
+------------------------
+We built a platform that allows Teachers, Rangers, and the general public to upload fun and unique facts about our National Parks and Lands. We're hoping the facts captured here excite kids (and their families) to go visit our parks and monuments!
+
+Public Repo: https://natlandfacts.herokuapp.com/ (We'll be uploading the project to the Repository) 
+
+iBeacon - NIC
+-------------
+See presentation.
+
+SideStream API and SideStream Reference Application - NIC
+---------------------------------------------------------
+The Internet contains a wealth of information and social media related to our federal parks and recreation areas. Much of this information is geo-located and is accessible and searchable via an API. The RIDB Side Stream API allows developers to pull supplemental information from a variety of sources using a single API and RIDB’s identifiers for recreation resources. This greatly reduces the effort required by a developer to access these supplemental resources when working with RIDB data.
+Anticipated sources of supplemental information provided by the RIDB Side Stream API include: photo sharing websites, Wikipedia, Google Maps, travel website ratings, social media content, and weather information. The application calling the API would specify which sources of information should be included in the results.  During the summit, development of the Flickr and Yelp component of the system was completed.
+
+Consumers of the new API would be websites, web applications, and mobile applications which are already working from RIDB information. The API uses REST protocols and provides payloads in JSON just like RIDB.
+
+To prove the usefulness, we have built a simple mapping mashup app during the developer summit to show how the API could be used. This proof of concept can serve as a reference for other developers looking to use the RIDB Side Stream API.
+
+Public Repo: 
+
+Recreation Tips System: EGov Team
+---------------------------------
+
+Exploring our nation’s recreation resources takes quite a bit of logistical planning. Each park or recreation area can present unique challenges for those about to embark on their journey. We have implemented a proof-of-concept Recreation Tips system that is capable of providing tips for each major entity found in RIDB. Tips would assist the visitor in packing for the trip and finding the best recreation when they get there.
+
+Tips would be generated using three methods. The first method is authored tips created by official representatives of the recreation area. The second method will be to use metadata found within RIDB to pull standard tips from a database. For instance, if a park has swimming, it would suggest that you might want to bring a bathing suit. The last method would be community generated tips. Users could submit tips for any recreation area within RIDB. The user community would then up/down vote these tips and the top tips would be included for that recreation area.  During the summit, the authored tips system was created and work on the generated tips system was started.
+
+The system was implemented as an API. A reference web application demonstrating use of the API was also be created during the summit to demonstrate usage of the API. Because it is implemented as an API, it could be integrated into official government websites and applications as well as third-party applications and websites which currently utilize RIDB data.
+
+Reservation Data Dashboard - US DOT Volpe Team
+----------------------------------------------
+
+Tech companies and other organizations use "Big Data" approaches to analyze their transactions and better serve their customers. Recreation.gov has years of anonymized reservations that can similarly be used to drive decisions on federal lands, both by potential visitors and staff at the agencies. The Volpe team focused on making this data useful for visitors, and worked with Recreation.gov staff to analyze one quarter of historical data. The team developed a dashboard that shows users how busy a given facility is across time, how soon in advance visitors typically need to reserve, and other experience data such as light pollution and facility distance from main roads. It also created a basic API framework that could help others work with Recreation.gov reservation data. The team brainstormed with other developers and federal staff about the ways reservation data could be analyzed to support decisions by both visitors and federal agency staff.
+
+Public Repo: 
+
 About the myAmerica Developer Summit 2015
 -----------------------------------------
 
