@@ -19,7 +19,7 @@ Update: Project Summaries from the myAmerica Developer Summit 2015
 
 Eleven teams presented apps for recreation including trails data pulling in Flicker photos, mashing together permit information for all agencies, two games for kids, and a few others presenting ways to showcase recreation and gather crowd-sourced/harvested information.
 
-IBM – Blue Mix 
+Blue Mix - IBM
 --------------
 Application was created, tested, and deployed using IBM's platform as a service (PaaS) called Bluemix.  Bluemix is based on CloudFoundry but includes a catalog of composable business services which allow us to quickly create, extend, deploy, and monitor web and mobile applications.
 
@@ -33,16 +33,16 @@ Topophi
 -------
 We are a group of avid backpackers making information about our national forests and wildernesses easily available to everyone. We want to educate adventurers and give them the information and permits they need to get into the backcountry.  Visit our website  https://www.topophi.com and read our blog: https://blog.topophi.com/.  
 
-Trail Assist
+Trail Assist - Stamen Design & Trailhead Labs
 ------------
 Team Members:
 •	Dan Rademacher (Stamen Design)
 •	Seth Fitzsimmons (Stamen Design)
-•	Jereme Monteau (Trailhead laps
+•	Jereme Monteau (Trailhead Labs
+
+Public Repo: https://github.com/myAmericaDevSummit2015/trail-assist
 
 The code repository for TrailEditor is here:  https://github.com/CodeForPortland/trailheadit
-There was not a lot of actual code for the trail layer compositing part, but will let you know if a repository emerges.
-Jereme Monteau  | Co-Founder & CTO @ www.TrailheadLabs.com
 
 WanderList - Booze-Allen Hamilton
 ---------------------------------
