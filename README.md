@@ -5,15 +5,6 @@ This is the home page of the [myAmerica Developer Summit 2015](http://openglobe.
 
 A public repo of all of submitted projects can be found at [https://github.com/myAmericaDevSummit2015] (https://github.com/myAmericaDevSummit2015)!
 
-The organization of this tree is as follows:
-
-* challenges - Challenges include subfolders and some datasets for sessions.
-* static - Static portions of the website (CSS, JS, resources)
-* presentations - Presentations from the meeting (keynotes, etc.)
-* code - Includes sub-folders of ALv2 licensed code produced by each session.
-* report - The report from the workshop.
-* index.html - The actual [web site](http://openglobe.github.io/myamerica-devsummit/).
-
 Update: Project Summaries from the myAmerica Developer Summit 2015
 ------------------------------------------------------------------
 
