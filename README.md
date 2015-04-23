@@ -35,6 +35,10 @@ Public Repo: https://github.com/myAmericaDevSummit2015/trail-assist
 
 The code repository for TrailEditor is here:  https://github.com/CodeForPortland/trailheadit
 
+Stamen Design Parks is here: https://github.com/stamen/caliparks.org
+
+Visit the website: parks.stamen.com
+
 WanderList - Booze-Allen Hamilton
 ---------------------------------
 WanderList is an easy way to create lists of your outdoor adventures. It allows you to search, create, and share your own curated lists that highlight your favorite parks into Bucket Lists.
