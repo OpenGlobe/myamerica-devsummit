@@ -26,18 +26,17 @@ We are a group of avid backpackers making information about our national forests
 
 Trail Assist - Stamen Design & Trailhead Labs
 ------------
+
+Our goal over the weekend of the #dev4outdoors hackathon at the Department of the Interior was to make substantial progress on adding detail and texture inside the 3,000+ parks in the Recreation Information Database (RIDB).
+
 Team Members:
-•	Dan Rademacher (Stamen Design)
-•	Seth Fitzsimmons (Stamen Design)
-•	Jereme Monteau (Trailhead Labs
+*	[Dan Rademacher](mailto:dan@stamen.com) (Stamen Design)
+*	[Seth Fitzsimmons](mailto:seth@stamen.com) (Stamen Design)
+*	[Jereme Monteau](mailto:jereme@trailheadlabs.com) (Trailhead Labs
 
 Public Repo: https://github.com/myAmericaDevSummit2015/trail-assist
 
 The code repository for TrailEditor is here:  https://github.com/CodeForPortland/trailheadit
-
-Stamen Design Parks is here: https://github.com/stamen/caliparks.org
-
-Visit the website: parks.stamen.com
 
 WanderList - Booze-Allen Hamilton
 ---------------------------------
