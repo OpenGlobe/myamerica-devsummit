@@ -5,10 +5,18 @@ This is the home page of the [myAmerica Developer Summit 2015](http://openglobe.
 
 A public repo of all of submitted projects can be found at [https://github.com/myAmericaDevSummit2015] (https://github.com/myAmericaDevSummit2015)!
 
+The myAmerica Develop Summit/RIDB API Hackathon was organized by a team from the U.S. Department of the Interior and the [Recreation One Stop](http://www.recreation.gov/marketing.do?goto=/about.html) program as an open invitation to web developers, IT industry, NGOs, government and the public to explore the new RIDB API and innovate web and mobile apps using recreation and other sources of open and government data.
+
+More than 150 people registered for the event and about 80 people actually showed up on a Saturday morning to work in the basement of a government building.  There were about a dozen different teams working on projects, revolving around the RIDB, trails and other open government datasets.
+
+By Sunday afternoon, the teams were ready to present their ideas to the group and were joined by some White House heavy-weights to include Jason Goldman, the new Chief Digital Officer for the White House and Megan Smith, the Chief Technology Officer for the Office of Science and Technology Policy at the White House.
+
 Update: Project Summaries from the myAmerica Developer Summit 2015
 ------------------------------------------------------------------
 
-Eleven teams presented apps for recreation including trails data pulling in Flicker photos, mashing together permit information for all agencies, two games for kids, and a few others presenting ways to showcase recreation and gather crowd-sourced/harvested information.
+Eleven teams presented apps for recreation including trails data pulling in Flickr photos, mashing together permit information for all agencies, two games for kids, and a few others presenting ways to showcase recreation and gather crowd-sourced/harvested information.
+
+While the teams weren't obligated to release code developed during the summit, nearly all teams committed to doing so.
 
 Blue Mix - IBM
 --------------
@@ -20,9 +28,17 @@ We elected to create a node.js application back-end that's built on IBM's Mobile
 •	Provide RIDB data and current data in a pop-up on the map.  
 •	Provide a text to speech feature which speaks the current weather.
 
+Key contacts: Exiquio Cooper-Anderson and Fred C. Collins, Ph.D. 
+
 Topophi
 -------
 We are a group of avid backpackers making information about our national forests and wildernesses easily available to everyone. We want to educate adventurers and give them the information and permits they need to get into the backcountry.  Visit our website  https://www.topophi.com and read our blog: https://blog.topophi.com/.  
+
+Team Members:
+* Joel Trost
+* Joanna Khachikian
+* Stephen Bishtawi
+* Joseph Knox
 
 Trail Assist - Stamen Design & Trailhead Labs
 ------------
@@ -42,6 +58,15 @@ WanderList - Booze-Allen Hamilton
 ---------------------------------
 WanderList is an easy way to create lists of your outdoor adventures. It allows you to search, create, and share your own curated lists that highlight your favorite parks into Bucket Lists.
 
+Team Members:
+* Shums Hoda
+* Giselle Goicochea
+* Sami Mirimiri
+* Michael Bray
+* Scott Orr
+* Debanjan Dasgupta
+* Jonathan Guerzon
+
 Public Repo: 
 
 Ascent - Booze-Allen Hamilton
@@ -50,11 +75,25 @@ ASCENT is a mobile-optimized, we- based application which pits two teams of kids
 
 Kids can view their conquests on the map and the maps of their competitors.
 
+Team Members:
+* Bill Ott
+* John Park
+* Eric Fields
+* Reza Dehganpour
+* Garrett Klausner
+* Brandon Morgan
+* Yang Yang Wu
+
 Public Repo: 
 
 Trail Buddy - Booze-Allen Hamilton
 ----------------------------------
 Trail Buddy provides an intuitive, accessible and human-centric application to interact, query and discovery the beauty of the great outdoors by using publicly available data sets. Combining natural language search, voice query and a learning mechanism which learns from the collective intelligence of the users interacting with it, Trail Buddy answers questions, just like your best buddy would.
+
+Team Members:
+* Sumeet Vij
+* Joe Ganley
+* Dominic DeBiaso
 
 Public Repo:
 
@@ -62,11 +101,19 @@ NatLand Facts! - HipCamp
 ------------------------
 We built a platform that allows Teachers, Rangers, and the general public to upload fun and unique facts about our National Parks and Lands. We're hoping the facts captured here excite kids (and their families) to go visit our parks and monuments!
 
-Public Repo: https://natlandfacts.herokuapp.com/ (We'll be uploading the project to the Repository) 
+Public Repo: [https://natlandfacts.herokuapp.com/](https://natlandfacts.herokuapp.com/) (We'll be uploading the project to the Repository) 
+
+Team Members:
+* Julian Bialowas
+* Pierre Alvan
 
 iBeacon - NIC
 -------------
 See presentation.
+
+Team Members:
+* Andy Ford
+* Tosha Shah
 
 SideStream API and SideStream Reference Application - NIC
 ---------------------------------------------------------
@@ -79,6 +126,12 @@ To prove the usefulness, we have built a simple mapping mashup app during the de
 
 Public Repo: 
 
+Team Members:
+* Jason Pekovitch
+* Danny Wedul
+* Jeff Jacobs
+* Andy Ford
+
 Recreation Tips System: EGov Team
 ---------------------------------
 
@@ -88,12 +141,21 @@ Tips would be generated using three methods. The first method is authored tips c
 
 The system was implemented as an API. A reference web application demonstrating use of the API was also be created during the summit to demonstrate usage of the API. Because it is implemented as an API, it could be integrated into official government websites and applications as well as third-party applications and websites which currently utilize RIDB data.
 
+Team Members:
+* Andy Ford
+
 Reservation Data Dashboard - US DOT Volpe Team
 ----------------------------------------------
 
 Tech companies and other organizations use "Big Data" approaches to analyze their transactions and better serve their customers. Recreation.gov has years of anonymized reservations that can similarly be used to drive decisions on federal lands, both by potential visitors and staff at the agencies. The Volpe team focused on making this data useful for visitors, and worked with Recreation.gov staff to analyze one quarter of historical data. The team developed a dashboard that shows users how busy a given facility is across time, how soon in advance visitors typically need to reserve, and other experience data such as light pollution and facility distance from main roads. It also created a basic API framework that could help others work with Recreation.gov reservation data. The team brainstormed with other developers and federal staff about the ways reservation data could be analyzed to support decisions by both visitors and federal agency staff.
 
 Public Repo: 
+
+Team Members:
+* Jonathan Frazier
+* Alex Linthicum
+* Logan Nash
+* Shawel Negussie
 
 About the myAmerica Developer Summit 2015
 -----------------------------------------
